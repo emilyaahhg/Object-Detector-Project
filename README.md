@@ -13,39 +13,30 @@ Object detection is a computer vision technique that works to identify and locat
     - To install Virtual Environment, `pip install virtualenv`
   
 # How to setup and run  
-  Step 1: 
-  ```bash
-  Download and Extract the Project Folder Name Object Detector Project.
-  ```
-  
-  Step 2:
-  ```bash
-  And then Open the Object Detector Project Folder in VsCode.
-  ```
-  
-  Step 3:  
-  ```bash
-  Open git bash terminal.
-  ```
-  
-  Step 4:
+  Step 1: Download and Extract the Project Folder Name Object Detector Project.
+
+  Step 2: And then Open the Object Detector Project Folder in VsCode.
+
+  Step 3: Open git bash terminal.
+
+  Step 4: To create virtual environment
   ```bash 
- To create virtual environment, `python -m venv venv`
+ python -m venv venv
   ```
   
-  Step 5:
+  Step 5: To activate the virtual environment
   ```bash 
- To activate the virtual environment, `source venv/scripts/activate`
+source venv/scripts/activate
   ```
   
-  Step 6:
+  Step 6: To install all package needed
   ```bash 
- To install all package needed, `pip install -r requirements.txt`
+pip install -r requirements.txt
   ```
   
-  Step 7:
+  Step 7: Run the program.
   ```bash 
-Run the program.
+python main.py
   ```
 
 
