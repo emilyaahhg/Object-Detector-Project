@@ -45,4 +45,4 @@ python main.py
   * numpy==1.23.1
 
 ###### Reference:
- Yotube Link: [link](https://www.youtube.com/watch?v=diWDgKcH3E0&t=410s)
+ Tutorial Video: [Object Detection Removing Duplicates | OpenCV Python](https://www.youtube.com/watch?v=diWDgKcH3E0&t=410s)
