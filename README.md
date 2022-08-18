@@ -7,7 +7,6 @@
 
 ##### Reference:
 
-[![Object Detection Removing Duplicates | OpenCV Python](https://user-images.githubusercontent.com/80059240/185274972-067ef5a9-4812-4b79-a0dc-085c7142bc58.png)](https://www.youtube.com/watch?v=diWDgKcH3E0&t=410s)
+[![Object Detection Removing Duplicates | OpenCV Python](https://i.ytimg.com/an_webp/HXDD7-EnGBY/mqdefault_6s.webp?du=3000&sqp=CIqq9pcG&rs=AOn4CLAwZvyS_-urn3VBBDfkSrSR4itL5Q)](https://www.youtube.com/watch?v=diWDgKcH3E0&t=410s)
 
 
-![image](https://user-images.githubusercontent.com/80059240/185274972-067ef5a9-4812-4b79-a0dc-085c7142bc58.png)
