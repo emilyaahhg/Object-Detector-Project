@@ -40,8 +40,9 @@ python main.py
   ```
 
 
-### Import
+### Imports
   * opencv-python==4.5.5.64
+  * numpy==1.23.1
 
 ###### Reference:
  Yotube Link: [link](https://www.youtube.com/watch?v=diWDgKcH3E0&t=410s)
